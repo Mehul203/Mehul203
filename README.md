@@ -1,34 +1,59 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Solanki%20Mehul&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=220&section=header&text=Solanki%20Mehul&fontSize=70&animation=fadeIn&fontAlignY=35" />
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;BCA+Graduate+|+MCA+Student;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MCA+Student+@+Noble+University;PHP+|+MySQL+|+JavaScript+Expert" alt="Typing SVG" />
   </p>
 </div>
 
 ---
 
-## 🛠️ Technical Expertise
-I specialize in building robust web applications. Here is my core tech stack:
+## 👋 About Me
+[cite_start]I am a dedicated **Web Developer** [cite: 2] currently pursuing my **MCA at Noble University, Junagadh**. I focus on building functional, user-centric web applications and digital marketplaces. [cite_start]I am a quick learner [cite: 6] [cite_start]with a creative spirit [cite: 69] [cite_start]and a positive attitude[cite: 73].
 
-### 🌐 Frontend Development
+- 🎓 **Currently:** MCA Student @ Noble University, Junagadh.
+- [cite_start]🎓 **Background:** BCA from Santuababa B.C.A College, Palitana[cite: 26].
+- [cite_start]🏆 **Achievement:** Secured 1st Rank in District Level Science & Math Environment competition.
+- [cite_start]📍 **Based in:** Surat, Gujarat[cite: 4].
+
+---
+
+## 🛠️ Technical Expertise
+I have a strong foundation in both frontend and backend technologies:
+
+### 🌐 Frontend & UI/UX
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
 </p>
 
 ### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,mysql,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,c,cpp,java" />
 </p>
 
-### 🔧 Tools & Version Control
+### 💻 Other Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,word,excel,powershell" />
 </p>
 
 ---
 
-## 📊 Performance & Statistics
+## 🚀 Projects & Experience
+
+### 🌐 Live Project: Coding World
+* [cite_start]**Link:** [Live Demo](https://semple.kesug.com/) [cite: 51]
+* [cite_start]**Description:** An online marketplace for digital projects[cite: 52].
+* [cite_start]**Tech:** PHP, MySQL, HTML, CSS, JS[cite: 54].
+* [cite_start]**Features:** Admin panel, category-wise listings, and secure downloads[cite: 52, 53].
+
+### 🛍️ E-Commerce & Management
+* [cite_start]**Pet Store:** Final year BCA project (2024-2025)[cite: 13, 14]. [cite_start]Features product ordering and user registration[cite: 32].
+* [cite_start]**Uttm Selection:** A specialized online shop for children's wear with secure OTP-based login[cite: 40, 41].
+* **Student Management System:** Core database handling and CRUD operations.
+
+---
+
+## 📊 GitHub Analytics
 <div align="center">
   <table border="0">
     <tr>
@@ -40,39 +65,20 @@ I specialize in building robust web applications. Here is my core tech stack:
       </td>
     </tr>
   </table>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulsolanki&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
 ---
 
-## 📂 Featured Projects
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h4>🏫 Student Management System</h4>
-      <p>A full-featured CRUD system with secure authentication built using PHP and MySQL.</p>
-      <code>PHP</code> <code>MySQL</code> <code>Bootstrap</code>
-    </td>
-    <td width="50%">
-      <h4>💼 Modern Portfolio</h4>
-      <p>A high-performance personal website designed with Tailwind CSS and JavaScript.</p>
-      <code>HTML</code> <code>Tailwind</code> <code>JS</code>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📫 Connect With Me
+## 📫 Let's Connect
 <div align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:smehul54321@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-username">
+  <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/mehulsolanki">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="tel:+919512149013">
+    <img src="https://img.shields.io/badge/Call-0ea5e9?style=for-the-badge&logo=phone&logoColor=white" />
   </a>
 </div>
 
