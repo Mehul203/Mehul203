@@ -40,29 +40,12 @@ Quick learner with a creative spirit and positive attitude.
 
 ## 📊 Skill Progress Bar (Neon Style)
 
-HTML  
-<img src="https://progress-bar.dev/90/?title=HTML&width=520&color=00f7ff" />
 
-CSS  
-<img src="https://progress-bar.dev/85/?title=CSS&width=520&color=38bdf8" />
-
-JavaScript  
-<img src="https://progress-bar.dev/75/?title=JavaScript&width=520&color=22d3ee" />
-
-PHP  
-<img src="https://progress-bar.dev/80/?title=PHP&width=520&color=06b6d4" />
-
-MySQL  
-<img src="https://progress-bar.dev/78/?title=MySQL&width=520&color=0ea5e9" />
-
-C  
-<img src="https://progress-bar.dev/70/?title=C&width=520&color=38bdf8" />
-
-C++  
-<img src="https://progress-bar.dev/72/?title=C++&width=520&color=22d3ee" />
-
-Java (Core)  
-<img src="https://progress-bar.dev/65/?title=Java&width=520&color=06b6d4" />
+![HTML](https://img.shields.io/badge/HTML-90%25-00f7ff?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-85%25-38bdf8?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-22d3ee?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-80%25-06b6d4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-78%25-0ea5e9?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
