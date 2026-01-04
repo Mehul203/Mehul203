@@ -9,16 +9,16 @@
 ---
 
 ## 👋 About Me
-[cite_start]I am a dedicated **Web Developer** [cite: 2] currently pursuing my **MCA at Noble University, Junagadh**. I focus on building functional, user-centric web applications and digital marketplaces. [cite_start]I am a quick learner [cite: 6] [cite_start]with a creative spirit [cite: 69] [cite_start]and a positive attitude[cite: 73].
+[cite_start]I am a dedicated **Web Developer** [cite: 2] currently pursuing my **MCA at Noble University, Junagadh**. I focus on building functional, user-centric web applications and digital marketplaces. [cite_start]I am a quick learner with a creative spirit and a positive attitude[cite: 6, 69, 73].
 
 - 🎓 **Currently:** MCA Student @ Noble University, Junagadh.
-- [cite_start]🎓 **Background:** BCA from Santuababa B.C.A College, Palitana[cite: 26].
-- [cite_start]🏆 **Achievement:** Secured 1st Rank in District Level Science & Math Environment competition.
-- [cite_start]📍 **Based in:** Surat, Gujarat[cite: 4].
+- [cite_start]🎓 **Education:** BCA from Santuababa B.C.A College, Palitana (2022-2025)[cite: 24, 25, 26].
+- [cite_start]🏆 **Achievement:** Got 1st Rank in Science-Mathematics-Environment performance at District Level[cite: 75].
+- [cite_start]📍 **Based in:** Uttran Mota Varacha, Surat[cite: 4].
 
 ---
 
-## 🛠️ Technical Expertise
+## [cite_start]🛠️ Technical Expertise [cite: 55]
 I have a strong foundation in both frontend and backend technologies:
 
 ### 🌐 Frontend & UI/UX
@@ -31,25 +31,30 @@ I have a strong foundation in both frontend and backend technologies:
   <img src="https://skillicons.dev/icons?i=php,mysql,c,cpp,java" />
 </p>
 
-### 💻 Other Tools
+### 🔧 Tools & Other Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,word,excel,powershell" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,word,excel,powerpoint" />
 </p>
 
 ---
 
-## 🚀 Projects & Experience
+## 🚀 Projects Portfolio
 
-### 🌐 Live Project: Coding World
+### [cite_start]🟢 Live Project: Coding World [cite: 50]
 * [cite_start]**Link:** [Live Demo](https://semple.kesug.com/) [cite: 51]
-* [cite_start]**Description:** An online marketplace for digital projects[cite: 52].
-* [cite_start]**Tech:** PHP, MySQL, HTML, CSS, JS[cite: 54].
-* [cite_start]**Features:** Admin panel, category-wise listings, and secure downloads[cite: 52, 53].
+* [cite_start]**Description:** An online marketplace platform for selling self-created digital projects[cite: 52]. 
+* [cite_start]**Features:** Admin-driven management, category-wise listings, and secure download access[cite: 52, 53].
+* [cite_start]**Tech:** PHP, MySQL, HTML, CSS, and JavaScript[cite: 54].
 
-### 🛍️ E-Commerce & Management
-* [cite_start]**Pet Store:** Final year BCA project (2024-2025)[cite: 13, 14]. [cite_start]Features product ordering and user registration[cite: 32].
-* [cite_start]**Uttm Selection:** A specialized online shop for children's wear with secure OTP-based login[cite: 40, 41].
-* **Student Management System:** Core database handling and CRUD operations.
+### 🛍️ E-Commerce & Web Applications
+* [cite_start]**Pet Store (Academic Project):** Designed an online shopping platform with user registration, login, and product ordering features[cite: 31, 32]. (Jan-2024 to Apr-2025) [cite_start][cite: 14].
+* [cite_start]**Uttm Selection:** Developed a children's wear store website featuring a secure OTP-based login system[cite: 40, 41].
+* [cite_start]**Online Shopping System:** Developed as part of academic learning[cite: 29].
+
+### 💻 Self-Learning & Practice
+* [cite_start]**Personal Portfolio:** Built using HTML, CSS, and JavaScript to showcase skills[cite: 19].
+* [cite_start]**Basic Calculator:** Developed as a practice project in PHP[cite: 20].
+* **C & C++ Logic:** Built various mini projects to strengthen algorithms and data handling.
 
 ---
 
@@ -74,7 +79,7 @@ I have a strong foundation in both frontend and backend technologies:
   <a href="mailto:smehul54321@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://linkedin.com/in/your-username">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="tel:+919512149013">
